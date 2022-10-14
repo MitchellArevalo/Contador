@@ -2,5 +2,8 @@ div{
     text-align: center;
 }
 div h2{
-    font-size: 110px;
+    text-align: center;
+    background-color: transparent;
+    border: 0 transparent;
+    font-size: 100px;
 }
