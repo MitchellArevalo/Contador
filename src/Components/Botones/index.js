@@ -1,9 +1,10 @@
 import React from 'react'
 import "../Botones/botones.css"
-let counter = document.getElementById('counter'); 
-let value = 0;
+
+
 export const Botones = () => {
-  
+  let value = 0;
+  let counter = document.getElementById('counter'); 
   function Aumentar() {
     
       value += 1

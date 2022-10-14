@@ -1,4 +1,5 @@
 import React from 'react'
+import "../src/App.css"
 import { Titulo } from "./Components/Titulo/index";
 import { Contador } from "./Components//Contador/index"
 import { Botones } from "./Components/Botones/index"

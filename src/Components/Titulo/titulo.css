@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
 }
-body{
-    background: linear-gradient(rgb(73, 73, 73) 5%, gray 20%);
-}
 .header{
     display: flex;
     align-items: center;
